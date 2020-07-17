@@ -1,2 +1,3 @@
-# MekanUI-V2
-Kolayca istediginiz dunyaya gitmek icin yapilmis plugindir.
+# YetkililerUI
+Yetkililere bakmak için yapılmış plugindir.
+Gerekli Pluginler: FormAPI
