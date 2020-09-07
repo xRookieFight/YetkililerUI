@@ -2,7 +2,7 @@ name: YetkililerUI
 author: xRookieFight
 version: 0.0.1
 main: xRookieFight\Yetkililer
-api: 3.1.8
+api: 3.15.0
 description: Yetkililere bakmak için yapılmış plugindir.
 commands:
   yetkililer:
